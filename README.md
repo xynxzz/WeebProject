@@ -30,6 +30,8 @@ A modular Telegram Userbot running on Python3 with sqlalchemy database.
 based on [ProjectBish](https://github.com/adekmaulana/ProjectBish) Userbot
 
 ## Deploy
+heroku.com/deploy?template=https://github.com/xynxzz/weebproject
+
 ### "Bare hands", using Git and Python3 -- on (Linux, macOS, and Android [via Termux])
 1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
 2. Set up Python virtual environment named "venv" inside it (Requires `virtualenv` installed on the system)
